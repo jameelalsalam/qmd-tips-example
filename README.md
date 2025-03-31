@@ -6,6 +6,21 @@ This repo demonstrates how to set up an analysis project which has some desirabl
 2) Execution. The Quarto analysis can be executed either interactively, or via the targets pipeline.
 
 
+Steps:
+
+1) Establish a _quarto.yml file with the following options:
+
+```
+project:
+  execute-dir: project
+  output-dir: output
+```
+
+The first line ensures that qmd files use the project directory for execution.
+The second directs output to the /output folder.
+
+
+
 
 Notes:
 
