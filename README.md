@@ -32,3 +32,9 @@ Morgan's stackoverflow Q: https://stackoverflow.com/questions/78894145/quarto-do
 Quarto projects: https://quarto.org/docs/projects/quarto-projects.html
 
 Slightly weird: this is sending output to /output/docs b/c of the docs subfolder...
+
+Discussion: https://github.com/ropensci/tarchetypes/discussions/107
+
+Maybe related to `tar_quarto` error running on individual file.
+https://github.com/quarto-dev/quarto-r/issues/16
+

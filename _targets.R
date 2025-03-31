@@ -15,6 +15,6 @@ if (FALSE) {
 
 list(
   tar_target(penguin_data, palmerpenguins::penguins),
-  # tar_quarto(penguins_qmd, "docs/penguins.qmd"), # this errors
-  tar_quarto(all_qmd, ".")
+  tar_quarto(penguins_qmd, "docs/penguins.qmd")#, # this was erroring... but now not?
+  #tar_quarto(all_qmd, ".") # this works, but does the whole 'project'
 )
