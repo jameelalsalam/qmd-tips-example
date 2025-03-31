@@ -30,3 +30,5 @@ https://github.com/quarto-dev/quarto-cli/discussions/9667
 Morgan's stackoverflow Q: https://stackoverflow.com/questions/78894145/quarto-document-not-seeing-project-directory-for-targets-data-functions-or-scr
 
 Quarto projects: https://quarto.org/docs/projects/quarto-projects.html
+
+Slightly weird: this is sending output to /output/docs b/c of the docs subfolder...

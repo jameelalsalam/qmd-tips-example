@@ -7,9 +7,14 @@ library(tarchetypes)
 # )
 
 # functions
-tar_source()
+# tar_source()
+
+if (FALSE) {
+  quarto::quarto_render("docs/penguins.qmd")
+}
 
 list(
-  tar_target(penguin_data, palmerpenguins::penguins)#,
-  #tar_quarto(penguins_qmd, "docs/penguins.qmd")
+  tar_target(penguin_data, palmerpenguins::penguins),
+  # tar_quarto(penguins_qmd, "docs/penguins.qmd"), # this errors
+  tar_quarto(all_qmd, ".")
 )

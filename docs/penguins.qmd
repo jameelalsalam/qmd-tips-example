@@ -9,7 +9,6 @@ format: html
 getwd()
 ```
 
-
 ```{r}
 targets::tar_load(penguin_data)
 ```
