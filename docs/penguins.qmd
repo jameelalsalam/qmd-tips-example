@@ -6,7 +6,10 @@ format: html
 ---
 
 ```{r}
-
 getwd()
+```
 
+
+```{r}
+targets::tar_load(penguin_data)
 ```

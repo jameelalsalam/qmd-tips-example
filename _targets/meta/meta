@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|0a29978241f64b33|||||||||||||||
+penguin_data|stem|f76d32fe0e8d4361|b968237b3160b75e|2c530c1562a7fbd1|-435283626||t20178.6575311442s|s2917b|2917|rds|local|vector|||0.047||
+penguins_qmd|stem||0e9c64f1cce14a52|e553b5f8d0020934|739446569||t20178.6576476303s||0|file|local|vector|||9.953||Error running quarto cli.ℹ Rerun with quiet  FALSE to see the full error message.Caused by error System command quarto.exe failed

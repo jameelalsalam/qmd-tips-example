@@ -10,5 +10,6 @@ library(tarchetypes)
 tar_source()
 
 list(
-  tar_quarto(penguins_qmd, "docs/penguins.qmd")
+  tar_target(penguin_data, palmerpenguins::penguins)#,
+  #tar_quarto(penguins_qmd, "docs/penguins.qmd")
 )
