@@ -1,0 +1,12 @@
+---
+title: "Penguins"
+author: "Jameel Alsalam"
+date: "3/31/2025"
+format: html
+---
+
+```{r}
+
+getwd()
+
+```
