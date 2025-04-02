@@ -10,7 +10,7 @@ library(tarchetypes)
 # tar_source()
 
 if (FALSE) {
-  quarto::quarto_render("docs/penguins.qmd")
+  quarto::quarto_render("docs/penguins.qmd") # works running manually
 }
 
 list(

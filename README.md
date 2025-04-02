@@ -20,6 +20,18 @@ The first line ensures that qmd files use the project directory for execution.
 The second directs output to the /output folder.
 
 
+Tips:
+
+* Setup chunk and paths. As of April 2025, unfortunately the RStudio IDE does not fully respect the interaction of chunks labelled 'setup' and execute-dir: project
+RStudio DOES give special treatment to a chunk with:
+
+```
+#| label: setup
+```
+
+See if this is resolved: https://github.com/rstudio/rstudio/issues/14127
+Discussion of behavior: https://forum.posit.co/t/quarto-equivalent-to-rmarkdown-setup-chunk/153018
+
 
 
 Notes:

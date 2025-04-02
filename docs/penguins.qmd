@@ -11,4 +11,6 @@ getwd()
 
 ```{r}
 targets::tar_load(penguin_data)
+
+head(penguin_data, n = 5)
 ```

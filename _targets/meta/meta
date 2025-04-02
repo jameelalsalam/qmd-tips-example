@@ -1,5 +1,4 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-penguin_data|stem|f76d32fe0e8d4361|b968237b3160b75e|2c530c1562a7fbd1|-435283626||t20178.6575311442s|s2917b|2917|rds|local|vector|||0.047||
-all_qmd|stem|7020bfdc83268f46|02c103772a18d153|e553b5f8d0020934|1747556735|output*docs/penguins.qmd*_quarto.yml|t20178.6798912313s|s864776b|864776|file|local|vector|||14.093||
-.Random.seed|object|57c3465c181c491e
-penguins_qmd|stem|9f9f096a4986ea03|0e9c64f1cce14a52|e553b5f8d0020934|739446569|output/docs/penguins.html*docs/penguins.qmd|t20178.7044735558s|s20257b|20257|file|local|vector|||13.937||
+penguin_data|stem|f76d32fe0e8d4361|b968237b3160b75e|2c530c1562a7fbd1|-435283626||t20178.740753216s|s2917b|2917|rds|local|vector|||0.125||
+penguins_qmd|stem|95f12d77260c97fc|0e9c64f1cce14a52|e553b5f8d0020934|739446569|output/docs/penguins.html*docs/penguins.qmd|t20178.7409590197s|s21283b|21283|file|local|vector|||17.875||
+.Random.seed|object|524f76af48a6aa6f
